@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+      "baseUrl": ".", // Sets the base directory for resolving non-relative module names
+      "paths": {
+        "@pages/*": [
+          "./cypress/e2e/pages/*" // Maps the '@pages/*' alias to the './cypress/e2e/pages/*' directory
+        ]
+      }
+    }
+  }
+  
