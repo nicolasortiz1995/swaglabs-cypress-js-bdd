@@ -1,0 +1,30 @@
+# Node artifact files
+node_modules/
+dist/
+
+# Archivos logs
+*.log
+
+# Archivos generados por MacOS
+.DS_Store
+
+# Archivos generados por Windows
+Thumbs.db
+
+# Archivos de media largos
+*.mp4
+*.tiff
+*.avi
+*.flv
+*.mov
+*.wmv
+
+# Reportes cucumber
+reports
+
+# Variables
+*.env.json
+
+# Carpetas
+videos
+screenshots

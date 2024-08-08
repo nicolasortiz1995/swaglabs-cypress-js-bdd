@@ -1,0 +1,28 @@
+{
+  "name": "swaglabs-cypress-js-bdd",
+  "version": "1.0.0",
+  "description": "Automatización a la página Saucedemo utilizando JavaScript, Cypress y Gherkin BDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress:open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolasortiz1995/swaglabs-cypress-js-bdd.git"
+  },
+  "keywords": [
+    "Cypress",
+    "JavaScript",
+    "Gherkin",
+    "BDD"
+  ],
+  "author": "Nicolas Ortiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicolasortiz1995/swaglabs-cypress-js-bdd/issues"
+  },
+  "homepage": "https://github.com/nicolasortiz1995/swaglabs-cypress-js-bdd#readme",
+  "dependencies": {
+    "cypress": "^13.13.2"
+  }
+}
