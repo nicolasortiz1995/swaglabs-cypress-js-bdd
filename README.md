@@ -11,7 +11,6 @@ Proyecto práctico utilizando Cypress para pruebas automatizadas, incorporando C
 - Page Object Model (POM)
 
 ## Estructura del proyecto
-
 - **.cypress-cucumber-preprocessorrc.json**: Configuración para el preprocesador Cypress Cucumber.
 - **.gitignore**: Archivo de ignorar de Git.
 - **cypress.config.js**: Archivo de configuración de Cypress.
@@ -22,7 +21,6 @@ Proyecto práctico utilizando Cypress para pruebas automatizadas, incorporando C
 - **README.md**: Este archivo, que proporciona una descripción general del proyecto e instrucciones de configuración.
 
 ### Carpetas del proyecto
-
 - **cypress/**
     - **downloads/**: Carpeta para archivos descargados durante las pruebas.
     - **e2e/**: Archivos de pruebas de extremo a extremo organizados por sprints.
@@ -79,7 +77,6 @@ Proyecto práctico utilizando Cypress para pruebas automatizadas, incorporando C
             - **UHFlow_PurchaseProducts.feature.mp4**: Grabación en video de pruebas relacionadas con el flujo de compra en el Sprint 4.
 
 ### Scripts de ejecución
-
 ```json
 "scripts": {
   "cypress:open": "cypress open", // Abrir consola Cypress
@@ -108,8 +105,7 @@ Proyecto práctico utilizando Cypress para pruebas automatizadas, incorporando C
 ```
 
 ### Instrucciones de Configuración
-
-- **Clonar Repositorio/**: git clone https://github.com/TatianaCerifi/cerifi-qa-assesment/tree/nicolas-ortiz
+- **Clonar Repositorio/**: git clone https://github.com/nicolasortiz1995/swaglabs-cypress-js-bdd.git
 - **Instalar Dependencias/**: npm install
 - **Ejecutar la GUI de Cypress/**: npm run cypress:open
 - **Ejecutar Pruebas de Cypress/**:
