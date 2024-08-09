@@ -1,4 +1,4 @@
-Instrucciones de Configuración
+# Instrucciones de Configuración
 - Clonar Repositorio/: git clone https://github.com/nicolasortiz1995/swaglabs-cypress-js-bdd.git
 - Instalar Dependencias/: npm install
 - Ejecutar la GUI de Cypress/: npm run cypress:open
@@ -7,7 +7,7 @@ Instrucciones de Configuración
     - Pruebas de regresión: npm run cypress:regression-tag
     - Pruebas de humo: npm run cypress:smoke-tag
 
-### Scripts de ejecución
+# Scripts de ejecución
 "scripts": {
   "cypress:open": "cypress open", // Abrir consola Cypress
   "cypress:runner": "cypress open --e2e --browser chrome", // Ejecución por consola con navegador Chrome por defecto

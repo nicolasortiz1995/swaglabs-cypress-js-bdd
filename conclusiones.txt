@@ -1,0 +1,12 @@
+# Conclusiones
+En el desarrollo de este proyecto de automatización, he simulado un entorno de trabajo basado en la metodología Scrum, lo que me permitió seguir el progreso y la evolución de la aplicación a lo largo de los sprints.
+
+Sprint 1: Me centré en automatizar las pruebas para la funcionalidad de inicio de sesión. En esta etapa, realicé pruebas tanto para rutas exitosas como para rutas alternativas, asegurando que el proceso de autenticación fuera robusto y confiable.
+
+Sprint 2: Automaticé las pruebas para la funcionalidad de filtrado de productos. Aquí, cubrí todos los comportamientos posibles permitidos por los filtros, validando que la funcionalidad cumpliera con los requisitos y expectativas establecidas.
+
+Sprint 3: Trabajé en la automatización de pruebas para la funcionalidad del carrito de compras. Implementé escenarios en los que se añadían productos aleatoriamente en cada ejecución, lo que permitió realizar pruebas más dinámicas y realistas, simulando diferentes casos de uso.
+
+Sprint 4: Me enfoqué en automatizar el proceso completo de compra. Reutilicé los escenarios de los sprints anteriores en un 'Background', demostrando así la mantenibilidad del proyecto de automatización y su capacidad para soportar el crecimiento de la aplicación de manera efectiva.
+
+Además, utilicé una biblioteca para generar datos de clientes aleatorios, lo que permitió realizar pruebas más variadas y representativas de situaciones del mundo real.
