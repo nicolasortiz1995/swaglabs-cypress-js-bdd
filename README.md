@@ -1,16 +1,16 @@
 # SWAGLABS-CYPRESS-JS-BDD
 
 
-## Description
+## Descripción
 Proyecto práctico utilizando Cypress para pruebas automatizadas, incorporando Cucumber para BDD e implementando el patrón de diseño Page Object Model (POM).
 
-## Technologies Used
+## Tecnologías usadas
 - Cypress
 - Cucumber
 - JavaScript
 - Page Object Model (POM)
 
-## Project Structure
+## Estructura del proyecto
 
 - **.cypress-cucumber-preprocessorrc.json**: Configuración para el preprocesador Cypress Cucumber.
 - **.gitignore**: Archivo de ignorar de Git.
@@ -21,7 +21,7 @@ Proyecto práctico utilizando Cypress para pruebas automatizadas, incorporando C
 - **package.json**: Metadatos y dependencias del proyecto.
 - **README.md**: Este archivo, que proporciona una descripción general del proyecto e instrucciones de configuración.
 
-### Project Folders
+### Carpetas del proyecto
 
 - **cypress/**
     - **downloads/**: Carpeta para archivos descargados durante las pruebas.
