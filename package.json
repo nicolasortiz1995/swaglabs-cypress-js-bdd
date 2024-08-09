@@ -1,7 +1,7 @@
 {
-  "name": "test-cypress-project",
+  "name": "swaglabs-cypress-js-bdd",
   "version": "1.0.0",
-  "description": "Practice project with Cypress.",
+  "description": "Automatización a la página Saucedemo utilizando JavaScript, Cypress y Gherkin BDD",
   "main": "index.js",
   "scripts": {
     "cypress:open": "cypress open",
@@ -13,11 +13,16 @@
   },
   "keywords": [
     "Cypress",
-    "Cucumber",
-    "JavaScript"
+    "JavaScript",
+    "Gherkin",
+    "BDD"
   ],
   "author": "Nicolas Ortiz",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicolasortiz1995/swaglabs-cypress-js-bdd/issues"
+  },
+  "homepage": "https://github.com/nicolasortiz1995/swaglabs-cypress-js-bdd#readme",
   "devDependencies": {
     "@badeball/cypress-cucumber-preprocessor": "^20.1.0",
     "@bahmutov/cypress-esbuild-preprocessor": "^2.1.5",
@@ -29,5 +34,9 @@
     "mochawesome-merge": "^4.3.0",
     "mochawesome-report-generator": "^6.2.0",
     "multiple-cucumber-html-reporter": "^3.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nicolasortiz1995/swaglabs-cypress-js-bdd.git"
   }
 }
